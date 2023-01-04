@@ -1,1 +1,1 @@
-# sound-galaxy-backend
+# sound-galaxy
